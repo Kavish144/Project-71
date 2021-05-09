@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: linear-gradient(blue 0%, purple 100%);
+    color: white;
+}
+#myNavBar {
+    float: left;
+    position: sticky;
+}
+#footer {
+    height: 20px;
+    background-color: white;
+}
+#alumni {
+    text-align: center;
+}
+.image {
+    width: 10px;
+    height: 10px;
+}
